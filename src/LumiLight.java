@@ -3,7 +3,7 @@
  * LumiNet – Machine Light Up (Akari) Game
  * ================================================================
  *
- * DESCRIPTION
+ * DESCRIPTION 
  * ------------------------------------------------
  * LumiNet is an intelligent implementation of the
  * classic Light-Up (Akari) puzzle game where the
