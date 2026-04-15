@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>LumiNet – Light Up (Akari) Game</title>
-</head>
-
-<body>
-
 <h1>💡 LumiNet – Machine Light Up (Akari) Game</h1>
 
 <p>
@@ -81,7 +72,7 @@ LumiNet is an intelligent JavaFX-based implementation of the classic
 <hr>
 
 <h2>⚙️ Time Complexities</h2>
-<table border="1" cellpadding="8">
+<table>
   <tr>
     <th>Component</th>
     <th>Complexity</th>
@@ -155,6 +146,3 @@ This project showcases how theoretical concepts like
 <b>Divide & Conquer, Dynamic Programming, and Backtracking</b> 
 can be applied in an interactive and competitive gaming environment.
 </p>
-
-</body>
-</html>
